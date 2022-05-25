@@ -1,0 +1,90 @@
+<resources>
+    <string name="app_name">Komponen Komputer</string>
+
+    <string name="text1">
+        Keyboard merupakan papan ketik komputer yang terdiri dari tombol-tombol seperti huruf alphabet, angka dan beberapa perintah lain khusus untuk komputer. Melalui keyboard inilah perintah yang diberikan oleh user dimasukkan ke dalam komputer. Kombinasi tombol keyboard juga bisa menghasilkan perintah tertentu.
+    </string>
+
+    <string name="text2">
+        Mouse adalah perangkat penunjuk yang berfungsi memasukkan data dan perintah ke dalam komputer selain menggunakan keyboard. Nama mouse diberikan karena kabel yang menjulur berbentuk seperti ekor tikus. Meskipun mouse masuk kedalam perangkat peripheral yang berada diluat perangkat utama komputer, namun mouse juga menjadi bagian penting perangkat keras komputer pada sebagian besar sistem.
+    </string>
+
+    <string name="text3">
+        Microphone dan headphone berfungsi untuk merekam dan memasukkan suara agar dapat tersimpan di memori komputer. Selain itu, perangkat ini juga termasuk dalam perangkat output komputer dimana kita dapat mendengarkan suara. Nantinya suara yang dihasilkan akan tersimpan dalam memori komputer.
+    </string>
+
+    <string name="text4">
+        Touchpad ini mempunyai fungsi yang sama dengan mouse. Biasanya touchpad digunakan pada laptop dan notebook. Penggunaan touchpad sangatlah mudah, yakni hanya dengan jari tangan untuk memindahkan kursor/ pointer. Selain touchpad ada juga model lain yang masih sejenis yakni pointing stick dan trackball.
+    </string>
+
+    <string name="text5">
+        Joy stick merupakan perangkat keras komputer yang berbentuk menyerupai tuas dan dapat bergerak ke semua arah. Joy stick ini berfungsi untuk mengirim signal arah sebesar 2 atau 3 dimensi ke komputer. Pada umumnya joy stick digunakan sebagai pelengkap untuk memainkan game atau video yang dilengkapi dengan lebih dari satu tombol.
+
+        Joy stick juga dapat kamu gunakan sebagai perangkat control utama pada kokpit pesawat terbang seperi jet dan pesawat militer, mengontrol mesin seperti mesin derek, truk, kursi roda, kamera pengawas serta mesin pemotong rumput. Selain itu, miniature dari joystick finger operated juga telah diadopsi sebagai perangkat input untuk perangkat elektronik kecil seperti telepon cellular.
+    </string>
+
+    <string name="text6">
+        Light pen merupakan pointe elektronik yang biasa digunakan untuk memodifikasi/ mendesain gambar dengan monitor secara langsung. Cara kerja alat ini adalah dengan mengirim sensor cahaya ke komputer kemudian direkam dan ditampilkan di layar yang telah disediakan.
+    </string>
+
+    <string name="text7">
+        Yakni perangkat yang digunakan untuk mengetahui aktifitas yang dilakukan dalam komputer serta menampilkan informasi yang telah diolah. Monitor ini menjadi salah satu perangkat yang paling penting dan harus ada, karena tanpa monitor komputer tak akan bisa melihat aktifitas apapun.
+    </string>
+
+    <string name="text8">
+        Printer adalah perangkat keras keluaran yang berfungsi untuk mengambil data elektronik yang tersimpan dalam komputer kemudian dibuatlah salinannya dalam bentuk nyata. Seperti saat kamu telah selesai membuat dokumen di komputer kemudian mencetak salinan dokumen tersebut dan dijadikan arsip.
+
+        Printer ini adalah salah satu perangkat yang sangat popular digunakan untuk mencetak teks maupun foto. Pada umumnya printer dibedakan menjadi beberapa bagian yakni penggetil yang berfungsi sebagaai perangkat yang mengambil kertas dari baki, dan tinta/ toner sebagai pencetak pada kertas tersebut.
+    </string>
+
+    <string name="text9">
+        Speaker adalah transduser yang berfungsi mengubag signal elektrik ke frekuensi audio dengan cara menggetarkan komponennya yang berbentuk membrane berfungsi menggetarkan udara sehinggga timbullah gelombang suara menuju kendang telinga dan dapat didengar.
+
+        Dalam setiap sistem penghasil suara juga menentukan kualitas suara disamping seperangkat pengolah suara sebelumnya yang masih berupa listrik maupun rangkaian amplifier.
+    </string>
+
+    <string name="text10">
+        Scanner atau disebut juga alat pemindah yakni perangkat keras komputer yang digunakan untuk memindai suatu bentuk seperti dokumen, foto, gelomgang, suhu dll, yang mana hasil pemindaian tersebut akan ditransformasikan kedalam komputer sebagai data digita.
+
+        Terdapat beberapa jenis scanner yang dapat kamu gunakan sesuai dengan kebutuhan dan cara kerja scanner itu sendiri antara lain scanner gambar, scanner barkot, scanner logam, scanner 3 dimensi, scanner sinar X, scanner cek dan scanner Optical Mark Reader (OMR).
+    </string>
+
+    <string name="text11">
+        Random Acces Memory/ RAM secara bahasa indonesia berarti memory akses acak. RAM adalah tempat penyimpanan pada komputer yang isinya dapat diakses sewaktu-waktu dan tidak memperdulikan letak data tersebut dalam memory.
+
+Pertama kali RAM diperkenalkan pada tahun 60an, namun pada saat itu memori semi konduktor ini belom sepopuler tahun ini karena harganya yang sangat mahal. Itu sebabnya konsumen lebih mengutamakan memory magnetic.
+    </string>
+
+    <string name="text12">
+        Central Prosessing Unit atau CPU dan Processor merupakan perangkat yang merujuk pada perangkat keras komputer untuk memahami dan melaksanakan perinyah dari perangkat lunak. Selain itu yang dimaksud dengan mikroprocessor adalah CPU yang diproduksi dalam sirkuit terpadu.
+
+Mulai pertengahan tahun 1970, perangkat ini umum digunakan menjadi praktor penting dalam fungsi kerja CPU. CPU merupakan bagian utama dari komputer yang berfunhsi mengatur semua aktifitas yang terdapat padakomputer.
+    </string>
+
+    <string name="text13">
+        Papan induk atau yang lebih akrab disebut motherboard merupakan perangkat utama dalam komputer. Motherboard mempunyai peran sangat penting sebagai tempat berbagai perangkat keras komputer. Sehingga dengan motherboard ini semua perangkat dapat terhubung.
+
+Motherboard sering disebut juga dengan main board sebagai papan utama yang menyerupai papan pcb uang mempunyai chip bios, banyak jalur konketor yang mampu menghubungkan perangkat dari berbagai akses.
+    </string>
+
+    <string name="text14">
+        Komponen komputer yang satu ini mempunyai fungsi sebagai salah satu perangkat keras yang mampu menyimpan sebuah data sekunder. Salah satu unit penyimpanan yang cukup popular adalah Harddisk. Harddisk mempunyai kapasitas cukup besar yang berbeda tergantung pada kebutuhan penggunanya.
+
+Ukuran paling kecil yang dimiliki harddisk sebesar 500 GB. Namun dalam perkembangannya harddisk mulai diciptakan dalam bentuk lebih kecil untuk meminimalisir tempat. Namun meskipun demikian malah day tampungnya lebih besar lho.
+    </string>
+
+    <string name="text15">
+        Modem adalah satu perangkat yang mempunyai ukuran kecil dan berfungsi untuk menghubungkan komputer/ PC dengan jaringan internet. Selain itu modem juga mempunyai model juga dapat digunakan untuk menyimpan data dengan memasukkan microSD kedalamnya.
+    </string>
+
+    <string name="text16">
+        Flashdisk atau USB drive adalah sebuah media penyimpanan dalam komputer yang sangat fleksibel dan bersifat non volatile. Dimana data tersebut tidak akan hilang meskipun terdapat aliran listrik didalamnya. selama datanya tidak dihapus, maka data tersebut akan tetap ada dalam kondisi apapun.
+
+Flashdisk dapat terhubung dengan komputer melalui port USB yangterletak pada motherboard. Mengenai bentuknya, flashdisk mempunyai komponen lebih sederhana dibandingkan dengan media penyimpanan lain seperti harddisk. Pasalnya flashdisk ini sebagai alternative atau perangkat pengganti harddisk untuk menyimpan data dan mudah dibawa kemana-mana karena ukurannya yang cukup kecil.
+
+Awalnya flashdisk mempunyai kapasitas 512 MB, namun seiring perkembangan teknologi kapasitas flashdisk mulai berkurang dan lebih bervariatif mulai dari 2 GB, 4 GB, 8 GB 16 GB dan seterusnya. Selain itu, flashdisk ini juga menjadi favorit  karena harganya yang lebih terjangkau dibandingkan dengan harddisk.
+    </string>
+    <string name="title_activity_maps">maps</string>
+
+
+</resources>

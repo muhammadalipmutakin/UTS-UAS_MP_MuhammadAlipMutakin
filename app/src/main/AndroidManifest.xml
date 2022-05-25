@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.mp_muhammadalipmutakin" >
+
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.MP_MuhammadAlipMutakin" >
+
+        <!--
+             TODO: Before you run your application, you need a Google Maps API key.
+
+             To get one, follow the directions here:
+
+                https://developers.google.com/maps/documentation/android-sdk/get-api-key
+
+             Once you have your API key (it starts with "AIza"), define a new property in your
+             project's local.properties file (e.g. MAPS_API_KEY=Aiza...), and replace the
+             "YOUR_API_KEY" string in this file with "${MAPS_API_KEY}".
+        -->
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="AIzaSyCulzITJF7hAV_2wHqsJCHkXh4oB351Wnc" />
+
+        <activity
+            android:name=".maps"
+            android:exported="false"
+            android:label="@string/title_activity_maps" />
+        <!--
+             TODO: Before you run your application, you need a Google Maps API key.
+
+             To get one, follow the directions here:
+
+                https://developers.google.com/maps/documentation/android-sdk/get-api-key
+
+             Once you have your API key (it starts with "AIza"), define a new property in your
+             project's local.properties file (e.g. MAPS_API_KEY=Aiza...), and replace the
+             "YOUR_API_KEY" string in this file with "${MAPS_API_KEY}".
+        -->
+        <activity android:name=".about" />
+        <activity android:name=".aboutuser" />
+        <activity android:name=".cpu" />
+        <activity android:name=".flashdisk" />
+        <activity android:name=".headphone" />
+        <activity android:name=".joystick" />
+        <activity android:name=".keyboard" />
+        <activity android:name=".komponen_keluaran" />
+        <activity android:name=".komponen_masukan" />
+        <activity android:name=".komponen_proses" />
+        <activity android:name=".komponen_tambahan" />
+        <activity android:name=".MenuUtama" />
+        <activity android:name=".modem" />
+        <activity android:name=".monitor" />
+        <activity android:name=".motherboard" />
+        <activity android:name=".mouse" />
+        <activity android:name=".pen" />
+        <activity android:name=".printer" />
+        <activity android:name=".ram" />
+        <activity android:name=".scanner" />
+        <activity android:name=".speaker" />
+        <activity android:name=".storage" />
+        <activity android:name=".touchpad" />
+        <activity
+            android:name=".main_activity"
+            android:exported="true" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/ProjectNetbeans/MP_MuhammadAlipMutakin/app/src/main/res/layout/activity_about.xml" value="0.2" />
+        <entry key="..\:/ProjectNetbeans/MP_MuhammadAlipMutakin/app/src/main/res/layout/activity_aboutme.xml" value="0.20416666666666666" />
+        <entry key="..\:/ProjectNetbeans/MP_MuhammadAlipMutakin/app/src/main/res/layout/activity_aboutuser.xml" value="0.20416666666666666" />
+        <entry key="..\:/ProjectNetbeans/MP_MuhammadAlipMutakin/app/src/main/res/layout/activity_cpu.xml" value="0.1" />
+        <entry key="..\:/ProjectNetbeans/MP_MuhammadAlipMutakin/app/src/main/res/layout/activity_flashdisk.xml" value="0.20416666666666666" />
+        <entry key="..\:/ProjectNetbeans/MP_MuhammadAlipMutakin/app/src/main/res/layout/activity_headphone.xml" value="0.20416666666666666" />
+        <entry key="..\:/ProjectNetbeans/MP_MuhammadAlipMutakin/app/src/main/res/layout/activity_joystick.xml" value="0.20416666666666666" />
+        <entry key="..\:/ProjectNetbeans/MP_MuhammadAlipMutakin/app/src/main/res/layout/activity_keyboard.xml" value="0.22" />
+        <entry key="..\:/ProjectNetbeans/MP_MuhammadAlipMutakin/app/src/main/res/layout/activity_komponen_keluaran.xml" value="0.20416666666666666" />
+        <entry key="..\:/ProjectNetbeans/MP_MuhammadAlipMutakin/app/src/main/res/layout/activity_komponen_masukan.xml" value="0.20416666666666666" />
+        <entry key="..\:/ProjectNetbeans/MP_MuhammadAlipMutakin/app/src/main/res/layout/activity_komponen_proses.xml" value="0.20416666666666666" />
+        <entry key="..\:/ProjectNetbeans/MP_MuhammadAlipMutakin/app/src/main/res/layout/activity_komponen_tambahan.xml" value="0.20416666666666666" />
+        <entry key="..\:/ProjectNetbeans/MP_MuhammadAlipMutakin/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/ProjectNetbeans/MP_MuhammadAlipMutakin/app/src/main/res/layout/activity_maps.xml" value="0.21614583333333334" />
+        <entry key="..\:/ProjectNetbeans/MP_MuhammadAlipMutakin/app/src/main/res/layout/activity_menu_utama.xml" value="0.33" />
+        <entry key="..\:/ProjectNetbeans/MP_MuhammadAlipMutakin/app/src/main/res/layout/activity_modem.xml" value="0.20416666666666666" />
+        <entry key="..\:/ProjectNetbeans/MP_MuhammadAlipMutakin/app/src/main/res/layout/activity_monitor.xml" value="0.20416666666666666" />
+        <entry key="..\:/ProjectNetbeans/MP_MuhammadAlipMutakin/app/src/main/res/layout/activity_motherboard.xml" value="0.1" />
+        <entry key="..\:/ProjectNetbeans/MP_MuhammadAlipMutakin/app/src/main/res/layout/activity_mouse.xml" value="0.20416666666666666" />
+        <entry key="..\:/ProjectNetbeans/MP_MuhammadAlipMutakin/app/src/main/res/layout/activity_pen.xml" value="0.20416666666666666" />
+        <entry key="..\:/ProjectNetbeans/MP_MuhammadAlipMutakin/app/src/main/res/layout/activity_printer.xml" value="0.20416666666666666" />
+        <entry key="..\:/ProjectNetbeans/MP_MuhammadAlipMutakin/app/src/main/res/layout/activity_ram.xml" value="0.1" />
+        <entry key="..\:/ProjectNetbeans/MP_MuhammadAlipMutakin/app/src/main/res/layout/activity_scanner.xml" value="0.20416666666666666" />
+        <entry key="..\:/ProjectNetbeans/MP_MuhammadAlipMutakin/app/src/main/res/layout/activity_speaker.xml" value="0.20416666666666666" />
+        <entry key="..\:/ProjectNetbeans/MP_MuhammadAlipMutakin/app/src/main/res/layout/activity_storage.xml" value="0.1" />
+        <entry key="..\:/ProjectNetbeans/MP_MuhammadAlipMutakin/app/src/main/res/layout/activity_touch.xml" value="0.20416666666666666" />
+        <entry key="..\:/ProjectNetbeans/MP_MuhammadAlipMutakin/app/src/main/res/layout/komponen_utama.xml" value="0.20416666666666666" />
+        <entry key="..\:/ProjectNetbeans/MP_MuhammadAlipMutakin/app/src/main/res/layout/menu_utama.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

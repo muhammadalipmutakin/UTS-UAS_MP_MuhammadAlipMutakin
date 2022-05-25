@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#000"
+    android:orientation="vertical"
+    tools:context="com.example.mp_muhammadalipmutakin.MenuUtama"
+    android:weightSum="1">
+
+    <ListView
+        android:id="@+id/list4"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:textSize="30sp">
+
+
+    </ListView>
+</LinearLayout>
