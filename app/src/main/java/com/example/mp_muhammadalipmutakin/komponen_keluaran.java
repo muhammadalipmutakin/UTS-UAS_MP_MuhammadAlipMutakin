@@ -51,4 +51,8 @@ public class komponen_keluaran extends AppCompatActivity {
             }
         });
     }
+    public void onBackPressed() {
+        Intent intent1 = new Intent(getApplicationContext(), MenuUtama.class);
+        startActivity(intent1);
+    }
 }

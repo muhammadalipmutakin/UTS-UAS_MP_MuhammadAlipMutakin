@@ -33,7 +33,7 @@
         <GridLayout
             android:id="@+id/mainGrid"
             android:layout_width="match_parent"
-            android:layout_height="986dp"
+            android:layout_height="1145dp"
             android:layout_weight="8"
             android:alignmentMode="alignMargins"
             android:columnCount="2"
@@ -258,7 +258,7 @@
                         android:layout_width="117dp"
                         android:layout_height="124dp"
                         android:layout_gravity="center_horizontal"
-                        android:src="@drawable/about" />
+                        android:src="@drawable/unpam" />
 
                     <Button
                         android:id="@+id/button6"

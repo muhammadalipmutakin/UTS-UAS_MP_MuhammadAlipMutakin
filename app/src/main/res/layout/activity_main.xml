@@ -41,7 +41,9 @@
         android:inputType="textPersonName"
         android:text=""
         tools:layout_editor_absoluteX="101dp"
-        tools:layout_editor_absoluteY="295dp" />
+        tools:layout_editor_absoluteY="295dp"
+        android:autofillHints="username(no database)"/>
+    <requestFocus />
 
     <EditText
         android:id="@+id/edpass"

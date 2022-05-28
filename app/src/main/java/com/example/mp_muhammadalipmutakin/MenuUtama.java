@@ -99,4 +99,8 @@ public class MenuUtama extends AppCompatActivity {
             }
         });
     }
+    public void onBackPressed() {
+        Intent intent1 = new Intent(getApplicationContext(), main_activity.class);
+        startActivity(intent1);
+    }
 }

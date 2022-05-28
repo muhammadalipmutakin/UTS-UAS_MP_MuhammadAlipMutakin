@@ -22,11 +22,11 @@
 
     <ImageView
         android:id="@+id/imageView"
-        android:layout_width="160dp"
-        android:layout_height="160dp"
+        android:layout_width="200dp"
+        android:layout_height="171dp"
         android:layout_gravity="center"
         android:layout_marginTop="30dp"
-        app:srcCompat="@drawable/unpam" />
+        app:srcCompat="@drawable/about" />
 
     <TextView
         android:id="@+id/textView4"
@@ -43,7 +43,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="10dp"
-        android:text="UTS, UAS Mobile Programing"
+        android:text="  UTS, UAS Mobile Programing"
         android:textAppearance="@style/TextAppearance.AppCompat.Body1"
         android:textColor="@color/black"
         android:textSize="8pt" />
@@ -53,9 +53,20 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="10dp"
-        android:text="MUHAMMAD ALIP MUTAKIN - 191021400027"
+        android:text="  MUHAMMAD ALIP MUTAKIN - 191021400027"
         android:textAppearance="@style/TextAppearance.AppCompat.Body1"
         android:textColor="@color/black"
+        android:textSize="8pt" />
+
+    <TextView
+        android:id="@+id/textView8"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:text="  Terimakasih"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+        android:textColor="@color/black"
+        android:textAlignment="center"
         android:textSize="8pt" />
 
     <Button

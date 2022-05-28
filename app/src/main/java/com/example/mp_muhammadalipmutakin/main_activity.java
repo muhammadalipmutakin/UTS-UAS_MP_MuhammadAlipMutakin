@@ -37,7 +37,8 @@ public class main_activity extends AppCompatActivity {
             @Override
             public void onClick(DialogInterface dialog, int which) {
                 //jika kalian menekan tombol ya, maka otomatis akan keluar dari activity saat ini
-                finish();
+                moveTaskToBack(true);
+
             }
         });
         //set negative tombol jika menjawab tidak

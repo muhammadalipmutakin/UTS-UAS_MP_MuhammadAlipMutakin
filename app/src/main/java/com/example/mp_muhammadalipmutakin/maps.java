@@ -1,6 +1,8 @@
 package com.example.mp_muhammadalipmutakin;
 
 import androidx.fragment.app.FragmentActivity;
+
+import android.content.Intent;
 import android.os.Bundle;
 
 import com.google.android.gms.maps.CameraUpdateFactory;
@@ -48,5 +50,9 @@ private ActivityMapsBinding binding;
         mMap.setMinZoomPreference(10);
         mMap.moveCamera(CameraUpdateFactory.newLatLng(unpam));
 
+    }
+    public void onBackPressed() {
+        Intent intent1 = new Intent(getApplicationContext(), MenuUtama.class);
+        startActivity(intent1);
     }
 }

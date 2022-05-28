@@ -84,15 +84,34 @@
        android:layout_width="match_parent"
        android:layout_height="wrap_content"
        android:textColor="@color/black">
-
    </EditText>
 
-    <Button
-        android:id="@+id/btkembali"
+    <TextView
+        android:id="@+id/textView8"
         android:layout_width="match_parent"
-        android:layout_height="80dp"
+        android:layout_height="wrap_content"
         android:layout_marginTop="10dp"
-        android:text="Kembali"
-        app:backgroundTint="#2A6C8A" />
+        android:text="Nomor handphone"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+        android:textColor="@color/black"
+        android:textSize="8pt" />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/black"/>
+
+    <TextView
+        android:id="@+id/textView9"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="Alamat"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+        android:textColor="@color/black"
+        android:textSize="8pt" />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/black"/>
 
 </LinearLayout>

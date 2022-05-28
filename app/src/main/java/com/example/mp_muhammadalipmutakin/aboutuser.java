@@ -201,5 +201,8 @@ public class aboutuser extends Activity implements View.OnClickListener {
         mediaScanIntent.setData(contentUri);
         this.sendBroadcast(mediaScanIntent);
     }
-
+    public void onBackPressed() {
+        Intent intent1 = new Intent(getApplicationContext(), MenuUtama.class);
+        startActivity(intent1);
+    }
 }

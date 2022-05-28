@@ -44,4 +44,8 @@ public class komponen_tambahan extends AppCompatActivity {
             }
         });
     }
+    public void onBackPressed() {
+        Intent intent1 = new Intent(getApplicationContext(), MenuUtama.class);
+        startActivity(intent1);
+    }
 }
