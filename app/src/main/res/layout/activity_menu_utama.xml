@@ -328,17 +328,54 @@
                         android:layout_width="117dp"
                         android:layout_height="124dp"
                         android:layout_gravity="center_horizontal"
-                        android:src="@drawable/exit" />
+                        android:src="@drawable/social" />
 
                     <Button
                         android:id="@+id/button8"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
-                        android:text="Exit"
+                        android:text="SOCIAL MEDIA"
                         app:backgroundTint="#254965" />
 
                 </LinearLayout>
             </androidx.cardview.widget.CardView>
+
+            <!-- Row 4 -->
+
+            <!-- Column 1 -->
+            <androidx.cardview.widget.CardView
+                android:layout_width="0dp"
+                android:layout_height="0dp"
+                android:layout_rowWeight="1"
+                android:layout_columnWeight="1"
+                android:layout_marginLeft="16dp"
+                android:layout_marginRight="16dp"
+                android:layout_marginBottom="16dp"
+                app:cardCornerRadius="8dp"
+                app:cardElevation="8dp">
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal|center_vertical"
+                    android:layout_margin="16dp"
+                    android:orientation="vertical">
+
+                    <ImageView
+                        android:layout_width="106dp"
+                        android:layout_height="123dp"
+                        android:layout_gravity="center_horizontal"
+                        android:src="@drawable/exit" />
+
+                    <Button
+                        android:id="@+id/button9"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:text="Exit"
+                        app:backgroundTint="#254965" />
+                </LinearLayout>
+            </androidx.cardview.widget.CardView>
+
 
         </GridLayout>
 

@@ -9,7 +9,7 @@ import android.widget.Button;
 import androidx.appcompat.app.AppCompatActivity;
 
 public class MenuUtama extends AppCompatActivity {
-    Button button1, button2, button3, button4, button5, button6,button7,button8;
+    Button button1, button2, button3, button4, button5, button6,button7,button8,button9;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -24,6 +24,7 @@ public class MenuUtama extends AppCompatActivity {
         button6 = (Button) findViewById(R.id.button6);
         button7 = (Button) findViewById(R.id.button7);
         button8 = (Button) findViewById(R.id.button8);
+        button9 = (Button) findViewById(R.id.button9);
 
         button1.setOnClickListener(new View.OnClickListener() {
 
@@ -90,6 +91,15 @@ public class MenuUtama extends AppCompatActivity {
             }
         });
         button8.setOnClickListener(new View.OnClickListener() {
+
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(MenuUtama.this, tabs.class);
+                finish();
+                startActivity(intent);
+            }
+        });
+        button9.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
                 // TODO Auto-generated method stub
 
